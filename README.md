@@ -1,1 +1,1 @@
-# py-news-scrape
+# py-stock-sentiment
